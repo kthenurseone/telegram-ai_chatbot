@@ -40,8 +40,8 @@ I will help to install the program.
 
 
 ## Images
+![Telegram Message Bot](https://github.com/kthenurseone/telegram-ai_chatbot/blob/main/text-to-emotion.png?raw=true)
 ![Telegram Message Bot](https://github.com/kthenurseone/telegram-ai_chatbot/blob/main/1.png?raw=true)
-![Telegram Message Bot](https://github.com/kthenurseone/telegram-ai_chatbot/blob/main/2.png?raw=true)
 
 
 
